@@ -34,3 +34,19 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+JSTimer/ProjectSettings/AudioManager.asset
+JSTimer/ProjectSettings/ClusterInputManager.asset
+JSTimer/ProjectSettings/DynamicsManager.asset
+JSTimer/ProjectSettings/EditorBuildSettings.asset
+JSTimer/ProjectSettings/EditorSettings.asset
+JSTimer/ProjectSettings/GraphicsSettings.asset
+JSTimer/ProjectSettings/InputManager.asset
+JSTimer/ProjectSettings/NavMeshAreas.asset
+JSTimer/ProjectSettings/NetworkManager.asset
+JSTimer/ProjectSettings/Physics2DSettings.asset
+JSTimer/ProjectSettings/ProjectSettings.asset
+JSTimer/ProjectSettings/ProjectVersion.txt
+JSTimer/ProjectSettings/QualitySettings.asset
+JSTimer/ProjectSettings/TagManager.asset
+JSTimer/ProjectSettings/TimeManager.asset
+JSTimer/ProjectSettings/UnityConnectSettings.asset
